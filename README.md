@@ -31,7 +31,7 @@ The Smoothie me Android app helps users get inspiration for their 5-a-day fruit 
 <img src="https://user-images.githubusercontent.com/39020690/50524550-5a745b00-0aa4-11e9-986b-8b0cdaf4fb68.png" width="400">
 
 
-*Kind notice: Students are responsible for their integrity. I allow students to read my code for reference, but submitting the code and artwork as part of a coursework examination could be a clear case of cheating and plagiarism. These students could be in violation of the Code of Student Conduct, which may have dramatic consequences such as getting expelled. Code adaptation and artwork by Sabrina Palis, Dec, 28t 2018. Project completed while taking the Advanced Android App development course at Udacity.
+*Kind notice: Students are responsible for their integrity. I allow students to read my code for reference, but submitting the code and artwork as part of a coursework examination could be a clear case of cheating and plagiarism. These students could be in violation of the Code of Student Conduct, which may have dramatic consequences such as getting expelled. Code adaptation and artwork by Sabrina Palis, Dec, 28t 2018. Project completed while taking the Advanced Android App development course at [Udacity](https://github.com/udacity/Android_Me).
 Copyright (C) 2017 The Android Open Source Project
 Besides the above notice, the following license applies and this license notice must be included in all works derived from this project:
 Licensed under the Apache License, Version 2.0 (the "License");
