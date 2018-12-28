@@ -1,6 +1,6 @@
 # Smoothie_me :cocktail: :pineapple: :strawberry:
 
-This short student project was done while taking the Advanced Android App Development Course at [Udacity](https://www.udacity.com), after graduating with [Android Basics Nanodegree by Google](https://confirm.udacity.com/XAF5RDPS).
+This short student project was done while taking the Advanced Android App Development Course at [Udacity](https://www.udacity.com), after graduating with the [Android Basics Nanodegree by Google](https://confirm.udacity.com/XAF5RDPS).
 
 ### Project overview
 
