@@ -12,12 +12,12 @@ This project makes use of Fragments to create a flexible and responsive UI.
 * Dynamically set fragment resources. Adding internal class variables that keep track of resources in the fragment class and  providing "setter" methods that allow you to give those class variables a certain value
 * Create, display, replace fragment in fragment container
 * Click response and saving state
-* Communicating between fragments: MasterLisFragment class communicating with host activity
+* Communicating between fragments: MasterListFragment class communicating with host activity
 
 
 ### Description :pear: :banana: :yum: 
 
-The Smoothie me app helps users get inspiration for their 5-a-day fruit and veggie intake. 
+The Smoothie me Android app helps users get inspiration for their 5-a-day fruit and veggie intake. 
 
 * Pick a theme, a fruit, a vegetable image from a list
 * Click show me to check out the selected smoothie, soup, or cocktail ingredients
